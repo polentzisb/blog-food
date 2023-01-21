@@ -1,5 +1,5 @@
 # blog-food
-Proyecto sobre blog de comida, Se utilizo React-Node-Express-Mysql.
+Proyecto sobre blog de comida, Se utilizo React-Node-Express-Mysql-SASS.
 Se ocupan las operaciones CRUD. Se puede crear un usuario y logear. Crear, editar y eliminar post por el mismo usuario que lo creo. 
 Se utilizo JWT-Cookie parser para comprobar los usuarios. 
 
